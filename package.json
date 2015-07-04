@@ -5,6 +5,7 @@
   "author": "noreply@saglac.io",
   "description": "A simple helpful robot for saglacio",
   "dependencies": {
+    "dorfbot-rpgdice": "^1.0.5",
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
