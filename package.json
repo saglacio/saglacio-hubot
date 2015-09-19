@@ -8,6 +8,7 @@
     "dorfbot-rpgdice": "^1.0.5",
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-github-repo-event-notifier": "^1.5.0",
     "hubot-google-images": "^0.1.5",
     "hubot-google-lucky": "0.0.1",
     "hubot-google-translate": "^0.2.0",

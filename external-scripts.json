@@ -10,5 +10,6 @@
   "hubot-shipit",
   "dorfbot-rpgdice",
   "hubot-google-lucky",
-  "hubot-memes"
+  "hubot-memes",
+  "hubot-github-repo-event-notifier"
 ]
